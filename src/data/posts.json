@@ -1,0 +1,44 @@
+[
+  {
+    "type": "project",
+    "title": "Portfolio Website",
+    "description": "Personal portfolio built using React and Tailwind CSS",
+    "link": "https://github.com/ketaki/portfolio",
+    "tags": ["WebDev", "React", "Tailwind"]
+  },
+  {
+    "type": "certification",
+    "title": "Frontend  Certification",
+    "description": "FreeCodeCamp's Responsive Web Design Certificate",
+    "link": "https://freecodecamp.org/certification/user/responsive-web-design",
+    "tags": ["HTML", "CSS", "Responsive"]
+  },
+  {
+    "type": "coding-rank",
+    "title": "HackerRank Gold Badge",
+    "description": "Gold badge for JavaScript on HackerRank",
+    "link": "https://www.hackerrank.com/profile/ketaki",
+    "tags": ["JavaScript", "ProblemSolving"]
+  },
+  {
+    "type": "research",
+    "title": "AI for Education",
+    "description": "A study on how AI improves adaptive learning platforms",
+    "link": "https://example.com/research-paper-ai",
+    "tags": ["AI", "Research", "EdTech"]
+  },
+  {
+    "type": "internship",
+    "title": "Frontend Developer Intern",
+    "description": "Worked at PitchX on a UI project",
+    "link": "https://example.com/offer-letter.pdf",
+    "tags": ["Internship", "React", "UIUX"]
+  },
+  {
+    "type": "project",
+    "title": "Ecommerce website",
+    "description": "built using react.js & tailwind css",
+    "link": "https://github.com/ketaki/portfolio",
+    "tags": ["WebDev", "react.js"]
+  }
+]
