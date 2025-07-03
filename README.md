@@ -1,6 +1,6 @@
 # ⚡ PitchX Skill Showcase
 
-A sleek and responsive frontend dashboard to showcase developer posts, badges, and skills — built with React and Tailwind CSS.
+PitchX Skill Showcase is a visually rich, interactive frontend web application designed to display user achievements, projects, and skills in a dashboard format. The design takes inspiration from modern SaaS products with a dark-themed, neon-accented interface — tailored for developers to showcase their portfolios, badges, certifications, and activity stats.
 
 ---
 
