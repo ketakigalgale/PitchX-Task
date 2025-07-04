@@ -1,6 +1,6 @@
 export default function Sidebar() {
   return (
-    <div className="w-80 min-h-screen  bg-gradient-to-br from-gray-900/40 bg-black text-white p-10 space-y-6 rounded-tr-4xl border-r border-gray-100">
+    <div className="w-80 min-h-screen  bg-gradient-to-br from-purple-900/10 to-purple-900/50  bg-black text-white p-10 space-y-6 rounded-tr-4xl border-r border-gray-100">
      
       <section>
         <h2 className="text-xl font-semibold text-purple-400 mb-1">📊 Dashboard</h2>
