@@ -4,11 +4,8 @@ function PostCard({ post }) {
   return (
   <div>
   
-  <span class="absolute top-8 right text-purple-700 text-xl  px-7 py-4">
-  1k+views
-  </span>
-  
-    <div className="h-90 w-80 relative bg-gradient-to-br from-purple-900/30 backdrop-blur-3xl rounded-[3rem] p-10 border border-purple-500 shadow-2xl transform transition-all duration-700 hover:scale-105 hover:rotate-y-5 hover:bg-green-900/20 hover:border-cyan-400 overflow-hidden" >
+
+    <div className="h-90 w-80 relative bg-gradient-to-br from-purple-900/20 to-purple-900/20 backdrop-blur-3xl rounded-[3rem] p-10 border border-gray-100 shadow-2xl transform transition-all duration-700 hover:scale-105 hover:rotate-y-5 hover:bg-purple-900/20 hover:border-purple-900 overflow-hidden" >
     
        <h2 className=" text-gray-400 text-3xl mb-6">{post.title}</h2>
 
